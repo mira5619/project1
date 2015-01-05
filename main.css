@@ -1,0 +1,38 @@
+body {
+	font-family: "Lucida Grande", sans-serif;
+	color: #666;
+}
+	
+.title-main {
+	font-size: 48px;
+	margin-top: 45px;
+}
+
+.sub-title {
+	color: #f07c17;
+	font-size: 24px;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+
+.udacity-mug {
+	margin-top: 20px;
+}
+
+.content {
+	font-size: 16px;
+	line-height: 2;
+}
+
+.mainfeatures {
+	margin: 30px 0 25px 0;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	border: 1px solid #ccc;
+}
+
+.listings {
+	font-size: 16px;
+	line-height: 2;
+}
