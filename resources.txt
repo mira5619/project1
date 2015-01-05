@@ -1,0 +1,13 @@
+1. To complete my project I learn from and use following web sites: 
+
+	https://www.udacity.com/course/ud304
+	http://getbootstrap.com/css/
+	https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+	https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+	http://discover-devtools.codeschool.com/
+	http://forums.udacity.com/tags/ud304/#ud304
+
+2. “I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc. By including this in my email, I understand that I will be expected to explain my work in a video call with a Udacity coach before I can receive my verified certificat e.”
+
+Margarita Ivanova
